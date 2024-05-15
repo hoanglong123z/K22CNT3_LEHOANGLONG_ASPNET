@@ -1,0 +1,21 @@
+﻿@model Lesson04_lab4_1_LHL.Models.LHLCustomer
+@{
+    ViewBag.Title = "LHLChi Tiết Khách Hàng";
+    //lấy dữ liệu truyền qua đối tượng theo cách 2
+    //var customer = model as Lesson04_lab4_1_LHL.Models.LHLCustomer
+}
+<h2>LHLChi Tiết Khách Hàng</h2>
+@*Lấy dữ liệu theo cách 1*@
+<p>Mã số : @Model.CustomerID</p>
+<p>Họ và Tên : @Model.CustomerName</p>
+<p>Số Điện Thoại : @Model.CustomerPhone</p>
+<p>Địa Chỉ : @Model.CustomerAddress</p>
+<p>Email : @Model.CustomerEmail</p>
+<p>Số Tiền Dư : @Model.Balancelhl</p>
+@*lấy theo cách 2
+    <p>Mã số : @customer.CustomerID</p>
+    <p>Họ và Tên : @customer.CustomerName</p>
+    <p>Số Điện Thoại : @customer.CustomerPhone</p>
+    <p>Địa Chỉ : @customer.CustomerAddress</p>
+    <p>Email : @customer.CustomerEmail</p>
+    <p>Số Tiền Dư : @customer.Balancelhl</p>*@

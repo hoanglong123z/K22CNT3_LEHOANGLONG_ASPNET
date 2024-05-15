@@ -1,0 +1,35 @@
+﻿@model List<BaiLab_ThucHanh_LHL.Models.LHLProduct>
+
+@{
+    ViewBag.Title = "LHLProduct List";
+}
+
+<h2>LHLProduct List</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<table class="table">
+    <tr>
+        <th>Product ID</th>
+        <th>Product Name</th>
+        <th>Unit</th>
+        <th>Price</th>
+        <th>Action</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.ProductId</td>
+            <td>@item.ProductName</td>
+            <td>@item.Unit</td>
+            <td>@item.Price</td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.ProductId }) |
+                @Html.ActionLink("Details", "Details", new { id = item.ProductId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.ProductId })
+            </td>
+        </tr>
+    }
+</table>

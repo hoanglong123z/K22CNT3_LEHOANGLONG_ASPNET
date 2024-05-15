@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\BaiLab_ThucHanh_LHL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{265EEC0A-ECF8-449C-8262-021C6585B3C1}|BaiLab_ThucHanh_LHL\\BaiLab_ThucHanh_LHL.csproj|c:\\exercise\\baitapvs\\ls_lehoanglong_asp\\aspnet_lhl\\bailab_thuchanh_lhl\\bailab_thuchanh_lhl\\controllers\\lhlproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265EEC0A-ECF8-449C-8262-021C6585B3C1}|BaiLab_ThucHanh_LHL\\BaiLab_ThucHanh_LHL.csproj|solutionrelative:bailab_thuchanh_lhl\\controllers\\lhlproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265EEC0A-ECF8-449C-8262-021C6585B3C1}|BaiLab_ThucHanh_LHL\\BaiLab_ThucHanh_LHL.csproj|c:\\exercise\\baitapvs\\ls_lehoanglong_asp\\aspnet_lhl\\bailab_thuchanh_lhl\\bailab_thuchanh_lhl\\views\\lhlproduct\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{265EEC0A-ECF8-449C-8262-021C6585B3C1}|BaiLab_ThucHanh_LHL\\BaiLab_ThucHanh_LHL.csproj|solutionrelative:bailab_thuchanh_lhl\\views\\lhlproduct\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265EEC0A-ECF8-449C-8262-021C6585B3C1}|BaiLab_ThucHanh_LHL\\BaiLab_ThucHanh_LHL.csproj|c:\\exercise\\baitapvs\\ls_lehoanglong_asp\\aspnet_lhl\\bailab_thuchanh_lhl\\bailab_thuchanh_lhl\\views\\lhlproduct\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{265EEC0A-ECF8-449C-8262-021C6585B3C1}|BaiLab_ThucHanh_LHL\\BaiLab_ThucHanh_LHL.csproj|solutionrelative:bailab_thuchanh_lhl\\views\\lhlproduct\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265EEC0A-ECF8-449C-8262-021C6585B3C1}|BaiLab_ThucHanh_LHL\\BaiLab_ThucHanh_LHL.csproj|c:\\exercise\\baitapvs\\ls_lehoanglong_asp\\aspnet_lhl\\bailab_thuchanh_lhl\\bailab_thuchanh_lhl\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265EEC0A-ECF8-449C-8262-021C6585B3C1}|BaiLab_ThucHanh_LHL\\BaiLab_ThucHanh_LHL.csproj|solutionrelative:bailab_thuchanh_lhl\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265EEC0A-ECF8-449C-8262-021C6585B3C1}|BaiLab_ThucHanh_LHL\\BaiLab_ThucHanh_LHL.csproj|c:\\exercise\\baitapvs\\ls_lehoanglong_asp\\aspnet_lhl\\bailab_thuchanh_lhl\\bailab_thuchanh_lhl\\views\\lhlproduct\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{265EEC0A-ECF8-449C-8262-021C6585B3C1}|BaiLab_ThucHanh_LHL\\BaiLab_ThucHanh_LHL.csproj|solutionrelative:bailab_thuchanh_lhl\\views\\lhlproduct\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265EEC0A-ECF8-449C-8262-021C6585B3C1}|BaiLab_ThucHanh_LHL\\BaiLab_ThucHanh_LHL.csproj|c:\\exercise\\baitapvs\\ls_lehoanglong_asp\\aspnet_lhl\\bailab_thuchanh_lhl\\bailab_thuchanh_lhl\\views\\lhlproduct\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{265EEC0A-ECF8-449C-8262-021C6585B3C1}|BaiLab_ThucHanh_LHL\\BaiLab_ThucHanh_LHL.csproj|solutionrelative:bailab_thuchanh_lhl\\views\\lhlproduct\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265EEC0A-ECF8-449C-8262-021C6585B3C1}|BaiLab_ThucHanh_LHL\\BaiLab_ThucHanh_LHL.csproj|c:\\exercise\\baitapvs\\ls_lehoanglong_asp\\aspnet_lhl\\bailab_thuchanh_lhl\\bailab_thuchanh_lhl\\views\\lhlproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{265EEC0A-ECF8-449C-8262-021C6585B3C1}|BaiLab_ThucHanh_LHL\\BaiLab_ThucHanh_LHL.csproj|solutionrelative:bailab_thuchanh_lhl\\views\\lhlproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265EEC0A-ECF8-449C-8262-021C6585B3C1}|BaiLab_ThucHanh_LHL\\BaiLab_ThucHanh_LHL.csproj|c:\\exercise\\baitapvs\\ls_lehoanglong_asp\\aspnet_lhl\\bailab_thuchanh_lhl\\bailab_thuchanh_lhl\\models\\lhlproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265EEC0A-ECF8-449C-8262-021C6585B3C1}|BaiLab_ThucHanh_LHL\\BaiLab_ThucHanh_LHL.csproj|solutionrelative:bailab_thuchanh_lhl\\models\\lhlproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265EEC0A-ECF8-449C-8262-021C6585B3C1}|BaiLab_ThucHanh_LHL\\BaiLab_ThucHanh_LHL.csproj|c:\\exercise\\baitapvs\\ls_lehoanglong_asp\\aspnet_lhl\\bailab_thuchanh_lhl\\bailab_thuchanh_lhl\\controllers\\lhlhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265EEC0A-ECF8-449C-8262-021C6585B3C1}|BaiLab_ThucHanh_LHL\\BaiLab_ThucHanh_LHL.csproj|solutionrelative:bailab_thuchanh_lhl\\controllers\\lhlhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\BaiLab_ThucHanh_LHL\\BaiLab_ThucHanh_LHL\\Views\\LHLProduct\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BaiLab_ThucHanh_LHL\\Views\\LHLProduct\\Delete.cshtml",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\BaiLab_ThucHanh_LHL\\BaiLab_ThucHanh_LHL\\Views\\LHLProduct\\Delete.cshtml",
+              "RelativeToolTip": "BaiLab_ThucHanh_LHL\\Views\\LHLProduct\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T13:00:56.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\BaiLab_ThucHanh_LHL\\BaiLab_ThucHanh_LHL\\Views\\LHLProduct\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BaiLab_ThucHanh_LHL\\Views\\LHLProduct\\Edit.cshtml",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\BaiLab_ThucHanh_LHL\\BaiLab_ThucHanh_LHL\\Views\\LHLProduct\\Edit.cshtml",
+              "RelativeToolTip": "BaiLab_ThucHanh_LHL\\Views\\LHLProduct\\Edit.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T13:00:03.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\BaiLab_ThucHanh_LHL\\BaiLab_ThucHanh_LHL\\Views\\LHLProduct\\Create.cshtml",
+              "RelativeDocumentMoniker": "BaiLab_ThucHanh_LHL\\Views\\LHLProduct\\Create.cshtml",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\BaiLab_ThucHanh_LHL\\BaiLab_ThucHanh_LHL\\Views\\LHLProduct\\Create.cshtml",
+              "RelativeToolTip": "BaiLab_ThucHanh_LHL\\Views\\LHLProduct\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T12:59:02.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\BaiLab_ThucHanh_LHL\\BaiLab_ThucHanh_LHL\\Views\\LHLProduct\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiLab_ThucHanh_LHL\\Views\\LHLProduct\\Index.cshtml",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\BaiLab_ThucHanh_LHL\\BaiLab_ThucHanh_LHL\\Views\\LHLProduct\\Index.cshtml",
+              "RelativeToolTip": "BaiLab_ThucHanh_LHL\\Views\\LHLProduct\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T12:57:47.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LHLProduct.cs",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\BaiLab_ThucHanh_LHL\\BaiLab_ThucHanh_LHL\\Models\\LHLProduct.cs",
+              "RelativeDocumentMoniker": "BaiLab_ThucHanh_LHL\\Models\\LHLProduct.cs",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\BaiLab_ThucHanh_LHL\\BaiLab_ThucHanh_LHL\\Models\\LHLProduct.cs",
+              "RelativeToolTip": "BaiLab_ThucHanh_LHL\\Models\\LHLProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:51:27.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\BaiLab_ThucHanh_LHL\\BaiLab_ThucHanh_LHL\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "BaiLab_ThucHanh_LHL\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\BaiLab_ThucHanh_LHL\\BaiLab_ThucHanh_LHL\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "BaiLab_ThucHanh_LHL\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:50:03.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LHLProductController.cs",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\BaiLab_ThucHanh_LHL\\BaiLab_ThucHanh_LHL\\Controllers\\LHLProductController.cs",
+              "RelativeDocumentMoniker": "BaiLab_ThucHanh_LHL\\Controllers\\LHLProductController.cs",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\BaiLab_ThucHanh_LHL\\BaiLab_ThucHanh_LHL\\Controllers\\LHLProductController.cs",
+              "RelativeToolTip": "BaiLab_ThucHanh_LHL\\Controllers\\LHLProductController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAgwE8AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:44:17.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\BaiLab_ThucHanh_LHL\\BaiLab_ThucHanh_LHL\\Views\\LHLProduct\\Search.cshtml",
+              "RelativeDocumentMoniker": "BaiLab_ThucHanh_LHL\\Views\\LHLProduct\\Search.cshtml",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\BaiLab_ThucHanh_LHL\\BaiLab_ThucHanh_LHL\\Views\\LHLProduct\\Search.cshtml",
+              "RelativeToolTip": "BaiLab_ThucHanh_LHL\\Views\\LHLProduct\\Search.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T13:04:06.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LHLHomeController.cs",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\BaiLab_ThucHanh_LHL\\BaiLab_ThucHanh_LHL\\Controllers\\LHLHomeController.cs",
+              "RelativeDocumentMoniker": "BaiLab_ThucHanh_LHL\\Controllers\\LHLHomeController.cs",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\BaiLab_ThucHanh_LHL\\BaiLab_ThucHanh_LHL\\Controllers\\LHLHomeController.cs",
+              "RelativeToolTip": "BaiLab_ThucHanh_LHL\\Controllers\\LHLHomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:49:52.947Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

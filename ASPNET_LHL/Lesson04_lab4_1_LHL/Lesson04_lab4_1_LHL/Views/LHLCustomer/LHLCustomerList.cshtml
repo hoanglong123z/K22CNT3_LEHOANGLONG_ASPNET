@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewBag.Title = "LHLDanh Sách Khách Hàng";
+    var list = ViewBag.list as List<Lesson04_lab4_1_LHL.Models.LHLCustomer>;
+}
+
+<h2>LHLDanh Sách Khách Hàng</h2>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Mã Khách Hàng</th>
+            <th>Họ Và Tên</th>
+            <th>Số Điện Thoại</th>
+            <th>Địa Chỉ</th>
+            <th>Email</th>
+            <th>Số Dư</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in list)
+            {
+                <tr>
+                    <td>@item.CustomerID</td>
+                    <td>@item.CustomerName</td>
+                    <td>@item.CustomerPhone</td>
+                    <td>@item.CustomerAddress</td>
+                    <td>@item.CustomerEmail</td>
+                    <td>@item.Balancelhl</td>
+                </tr>
+            }
+    </tbody>
+</table>
+
