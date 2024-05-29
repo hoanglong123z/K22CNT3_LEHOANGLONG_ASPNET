@@ -1,0 +1,68 @@
+﻿@model LHL_Lab05.Models.LHLMember
+
+@{
+    ViewBag.Title = "Sử dụng HTML validate data";
+}
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+<div class="form-horizontal">
+    <h4>Thêm Thành Viên</h4>
+    <hr />
+    <div class="form-group">
+        @Html.Label("Mã Thành Viên", new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(Model => Model.ID, new { Required = "Required", type = "number" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.Label("Tên Đăng Nhập", new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(Model => Model.Username, new { Required = "Required" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.Label("Họ Và Tên", new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(Model => Model.FullName, new { Required = "Required" })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.Label("Mật Khẩu", new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(Model => Model.PassWord, new { Required = "Required" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.Label("Tuổi", new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(Model => Model.Age, new { Required = "Required",type ="number",min ="18", max="60" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.Label("Email", new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(Model => Model.Email, new { Required = "Required",type="email" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Create" class="btn btn-default" />
+        </div>
+    </div>
+</div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

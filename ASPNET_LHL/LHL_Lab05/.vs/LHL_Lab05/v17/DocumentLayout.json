@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lab05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E48AF34-F55B-42CB-9E8A-6BEF7CE4B1CE}|LHL_Lab05\\LHL_Lab05.csproj|c:\\exercise\\baitapvs\\ls_lehoanglong_asp\\aspnet_lhl\\lhl_lab05\\lhl_lab05\\controllers\\lhlmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E48AF34-F55B-42CB-9E8A-6BEF7CE4B1CE}|LHL_Lab05\\LHL_Lab05.csproj|solutionrelative:lhl_lab05\\controllers\\lhlmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E48AF34-F55B-42CB-9E8A-6BEF7CE4B1CE}|LHL_Lab05\\LHL_Lab05.csproj|c:\\exercise\\baitapvs\\ls_lehoanglong_asp\\aspnet_lhl\\lhl_lab05\\lhl_lab05\\views\\lhlmember\\lhlcreatethree.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E48AF34-F55B-42CB-9E8A-6BEF7CE4B1CE}|LHL_Lab05\\LHL_Lab05.csproj|solutionrelative:lhl_lab05\\views\\lhlmember\\lhlcreatethree.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E48AF34-F55B-42CB-9E8A-6BEF7CE4B1CE}|LHL_Lab05\\LHL_Lab05.csproj|C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lab05\\lhl_lab05\\views\\lhlmember\\lhlcreatetwo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E48AF34-F55B-42CB-9E8A-6BEF7CE4B1CE}|LHL_Lab05\\LHL_Lab05.csproj|solutionrelative:lhl_lab05\\views\\lhlmember\\lhlcreatetwo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E48AF34-F55B-42CB-9E8A-6BEF7CE4B1CE}|LHL_Lab05\\LHL_Lab05.csproj|C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lab05\\lhl_lab05\\views\\lhlmember\\lhlcreateone.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E48AF34-F55B-42CB-9E8A-6BEF7CE4B1CE}|LHL_Lab05\\LHL_Lab05.csproj|solutionrelative:lhl_lab05\\views\\lhlmember\\lhlcreateone.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E48AF34-F55B-42CB-9E8A-6BEF7CE4B1CE}|LHL_Lab05\\LHL_Lab05.csproj|C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lab05\\lhl_lab05\\models\\lhlmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E48AF34-F55B-42CB-9E8A-6BEF7CE4B1CE}|LHL_Lab05\\LHL_Lab05.csproj|solutionrelative:lhl_lab05\\models\\lhlmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E48AF34-F55B-42CB-9E8A-6BEF7CE4B1CE}|LHL_Lab05\\LHL_Lab05.csproj|C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lab05\\lhl_lab05\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E48AF34-F55B-42CB-9E8A-6BEF7CE4B1CE}|LHL_Lab05\\LHL_Lab05.csproj|solutionrelative:lhl_lab05\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E48AF34-F55B-42CB-9E8A-6BEF7CE4B1CE}|LHL_Lab05\\LHL_Lab05.csproj|C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lab05\\lhl_lab05\\controllers\\lhlhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E48AF34-F55B-42CB-9E8A-6BEF7CE4B1CE}|LHL_Lab05\\LHL_Lab05.csproj|solutionrelative:lhl_lab05\\controllers\\lhlhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E48AF34-F55B-42CB-9E8A-6BEF7CE4B1CE}|LHL_Lab05\\LHL_Lab05.csproj|C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lab05\\lhl_lab05\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E48AF34-F55B-42CB-9E8A-6BEF7CE4B1CE}|LHL_Lab05\\LHL_Lab05.csproj|solutionrelative:lhl_lab05\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E48AF34-F55B-42CB-9E8A-6BEF7CE4B1CE}|LHL_Lab05\\LHL_Lab05.csproj|C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lab05\\lhl_lab05\\views\\lhlmember\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E48AF34-F55B-42CB-9E8A-6BEF7CE4B1CE}|LHL_Lab05\\LHL_Lab05.csproj|solutionrelative:lhl_lab05\\views\\lhlmember\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lhlCreateThree.cshtml",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lab05\\LHL_Lab05\\Views\\LHLMember\\lhlCreateThree.cshtml",
+              "RelativeDocumentMoniker": "LHL_Lab05\\Views\\LHLMember\\lhlCreateThree.cshtml",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lab05\\LHL_Lab05\\Views\\LHLMember\\lhlCreateThree.cshtml",
+              "RelativeToolTip": "LHL_Lab05\\Views\\LHLMember\\lhlCreateThree.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T04:01:41.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LHLMemberController.cs",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lab05\\LHL_Lab05\\Controllers\\LHLMemberController.cs",
+              "RelativeDocumentMoniker": "LHL_Lab05\\Controllers\\LHLMemberController.cs",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lab05\\LHL_Lab05\\Controllers\\LHLMemberController.cs",
+              "RelativeToolTip": "LHL_Lab05\\Controllers\\LHLMemberController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAApwE4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T02:32:05.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LHLMember.cs",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lab05\\LHL_Lab05\\Models\\LHLMember.cs",
+              "RelativeDocumentMoniker": "LHL_Lab05\\Models\\LHLMember.cs",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lab05\\LHL_Lab05\\Models\\LHLMember.cs",
+              "RelativeToolTip": "LHL_Lab05\\Models\\LHLMember.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAswBkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T02:19:00.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "lhlCreateOne.cshtml",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lab05\\LHL_Lab05\\Views\\LHLMember\\lhlCreateOne.cshtml",
+              "RelativeDocumentMoniker": "LHL_Lab05\\Views\\LHLMember\\lhlCreateOne.cshtml",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lab05\\LHL_Lab05\\Views\\LHLMember\\lhlCreateOne.cshtml",
+              "RelativeToolTip": "LHL_Lab05\\Views\\LHLMember\\lhlCreateOne.cshtml",
+              "ViewState": "AQIAACgAAAAAAAAAAADwv0QAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T02:50:49.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lab05\\LHL_Lab05\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LHL_Lab05\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lab05\\LHL_Lab05\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LHL_Lab05\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T02:16:35.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lhlCreateTwo.cshtml",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lab05\\LHL_Lab05\\Views\\LHLMember\\lhlCreateTwo.cshtml",
+              "RelativeDocumentMoniker": "LHL_Lab05\\Views\\LHLMember\\lhlCreateTwo.cshtml",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lab05\\LHL_Lab05\\Views\\LHLMember\\lhlCreateTwo.cshtml",
+              "RelativeToolTip": "LHL_Lab05\\Views\\LHLMember\\lhlCreateTwo.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAADwv0kAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T03:02:29.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LHLHomeController.cs",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lab05\\LHL_Lab05\\Controllers\\LHLHomeController.cs",
+              "RelativeDocumentMoniker": "LHL_Lab05\\Controllers\\LHLHomeController.cs",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lab05\\LHL_Lab05\\Controllers\\LHLHomeController.cs",
+              "RelativeToolTip": "LHL_Lab05\\Controllers\\LHLHomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T02:16:06.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lab05\\LHL_Lab05\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "LHL_Lab05\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lab05\\LHL_Lab05\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "LHL_Lab05\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T02:16:21.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lab05\\LHL_Lab05\\Views\\LHLMember\\Details.cshtml",
+              "RelativeDocumentMoniker": "LHL_Lab05\\Views\\LHLMember\\Details.cshtml",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lab05\\LHL_Lab05\\Views\\LHLMember\\Details.cshtml",
+              "RelativeToolTip": "LHL_Lab05\\Views\\LHLMember\\Details.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T02:46:58.299Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

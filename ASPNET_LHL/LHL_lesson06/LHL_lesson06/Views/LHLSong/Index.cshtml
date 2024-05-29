@@ -1,0 +1,52 @@
+﻿@model IEnumerable<LHL_lesson06.Models.LHLSong>
+
+@{
+    ViewBag.Title = "LHL: Danh Sách bài Hát";
+}
+
+<h2>LHL: Danh Sách bài hát</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.LHLTitle)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LHLAuthor)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LHLArtist)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LHLYearRelease)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) 
+{
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.LHLTitle)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LHLAuthor)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LHLArtist)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LHLYearRelease)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>

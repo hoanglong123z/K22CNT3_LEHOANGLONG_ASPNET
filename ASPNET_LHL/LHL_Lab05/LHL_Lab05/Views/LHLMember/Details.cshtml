@@ -1,0 +1,62 @@
+﻿@model LHL_Lab05.Models.LHLMember
+
+@{
+    ViewBag.Title = "Chi Tiết Thành Viên";
+}
+
+<h2>Chi Tiết Thành  Viên</h2>
+
+<div>
+    <h4>LHLMember</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Mã Số :
+        </dt>
+        <dd>
+            @Html.DisplayNameFor(model => model.ID)
+        </dd>
+        <dt>
+            Tên Đăng Nhập :
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Username)
+        </dd>
+
+        <dt>
+            Họ Và Tên :
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FullName)
+        </dd>
+
+        <dt>
+            Mật Khẩu :
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PassWord)
+        </dd>
+
+        <dt>
+            Tuổi :
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Age)
+        </dd>
+
+        <dt>
+           Email :
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Back to List", "lhlCreateOne")
+</p>
