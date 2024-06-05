@@ -1,0 +1,83 @@
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\LHL_Lesson06_Entity FrameWork.dll.config
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\LHL_Lesson06_Entity FrameWork.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\LHL_Lesson06_Entity FrameWork.pdb
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\csc.exe
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\csc.exe.config
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\csc.rsp
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\csi.exe
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\csi.exe.config
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\csi.rsp
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\Microsoft.Managed.Core.targets
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\System.AppContext.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\System.Collections.Immutable.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\System.Console.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\System.Globalization.Calendars.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\System.IO.Compression.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\System.IO.FileSystem.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\System.Net.Http.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\System.Net.Sockets.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\System.Reflection.Metadata.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\System.ValueTuple.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\System.Xml.XmlDocument.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\System.Xml.XPath.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\vbc.exe
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\vbc.exe.config
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\vbc.rsp
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\VBCSCompiler.exe
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\roslyn\VBCSCompiler.exe.config
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\Antlr3.Runtime.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\EntityFramework.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\EntityFramework.SqlServer.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\Microsoft.Web.Infrastructure.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\Newtonsoft.Json.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\System.Web.Helpers.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\System.Web.Mvc.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\System.Web.Optimization.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\System.Web.Razor.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\System.Web.WebPages.Deployment.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\System.Web.WebPages.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\System.Web.WebPages.Razor.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\WebGrease.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\EntityFramework.xml
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\EntityFramework.SqlServer.xml
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\System.Web.Helpers.xml
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\System.Web.Mvc.xml
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\System.Web.Optimization.xml
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\System.Web.Razor.xml
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\System.Web.WebPages.xml
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\System.Web.WebPages.Deployment.xml
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\System.Web.WebPages.Razor.xml
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\Newtonsoft.Json.xml
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\Antlr3.Runtime.pdb
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\obj\Debug\LHL_Lesson06_Entity FrameWork.csproj.AssemblyReference.cache
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\obj\Debug\LHL_Lesson06_Entity FrameWork.csproj.CoreCompileInputs.cache
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\obj\Debug\LHL_Less.0CC07051.Up2Date
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\obj\Debug\LHL_Lesson06_Entity FrameWork.dll
+C:\exercise\BaiTapVS\LS_Lehoanglong_ASP\ASPNET_LHL\LHL_Lesson06_Entity FrameWork\LHL_Lesson06_Entity FrameWork\obj\Debug\LHL_Lesson06_Entity FrameWork.pdb

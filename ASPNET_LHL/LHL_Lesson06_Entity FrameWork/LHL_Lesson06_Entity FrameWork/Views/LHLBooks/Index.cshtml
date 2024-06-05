@@ -1,0 +1,69 @@
+﻿@model IEnumerable<LHL_Lesson06_Entity_FrameWork.Models.LHLBook>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.LhlBookId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LhlTitle)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LhlAuthor)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LhlYear)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LhlPulisher)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LhlPicture)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LhlCategoryId)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.LhlBookId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LhlTitle)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LhlAuthor)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LhlYear)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LhlPulisher)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LhlPicture)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LhlCategoryId)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.LhlId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.LhlId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.LhlId })
+        </td>
+    </tr>
+}
+
+</table>

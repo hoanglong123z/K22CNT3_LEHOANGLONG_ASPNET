@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lesson06_Entity FrameWork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA65EAF-5BDB-4E24-8F52-5F717B7E7392}|LHL_Lesson06_Entity FrameWork\\LHL_Lesson06_Entity FrameWork.csproj|c:\\exercise\\baitapvs\\ls_lehoanglong_asp\\aspnet_lhl\\lhl_lesson06_entity framework\\lhl_lesson06_entity framework\\models\\lhlbookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BA65EAF-5BDB-4E24-8F52-5F717B7E7392}|LHL_Lesson06_Entity FrameWork\\LHL_Lesson06_Entity FrameWork.csproj|solutionrelative:lhl_lesson06_entity framework\\models\\lhlbookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA65EAF-5BDB-4E24-8F52-5F717B7E7392}|LHL_Lesson06_Entity FrameWork\\LHL_Lesson06_Entity FrameWork.csproj|c:\\exercise\\baitapvs\\ls_lehoanglong_asp\\aspnet_lhl\\lhl_lesson06_entity framework\\lhl_lesson06_entity framework\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1BA65EAF-5BDB-4E24-8F52-5F717B7E7392}|LHL_Lesson06_Entity FrameWork\\LHL_Lesson06_Entity FrameWork.csproj|solutionrelative:lhl_lesson06_entity framework\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA65EAF-5BDB-4E24-8F52-5F717B7E7392}|LHL_Lesson06_Entity FrameWork\\LHL_Lesson06_Entity FrameWork.csproj|c:\\exercise\\baitapvs\\ls_lehoanglong_asp\\aspnet_lhl\\lhl_lesson06_entity framework\\lhl_lesson06_entity framework\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BA65EAF-5BDB-4E24-8F52-5F717B7E7392}|LHL_Lesson06_Entity FrameWork\\LHL_Lesson06_Entity FrameWork.csproj|solutionrelative:lhl_lesson06_entity framework\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA65EAF-5BDB-4E24-8F52-5F717B7E7392}|LHL_Lesson06_Entity FrameWork\\LHL_Lesson06_Entity FrameWork.csproj|c:\\exercise\\baitapvs\\ls_lehoanglong_asp\\aspnet_lhl\\lhl_lesson06_entity framework\\lhl_lesson06_entity framework\\controllers\\lhlbookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BA65EAF-5BDB-4E24-8F52-5F717B7E7392}|LHL_Lesson06_Entity FrameWork\\LHL_Lesson06_Entity FrameWork.csproj|solutionrelative:lhl_lesson06_entity framework\\controllers\\lhlbookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA65EAF-5BDB-4E24-8F52-5F717B7E7392}|LHL_Lesson06_Entity FrameWork\\LHL_Lesson06_Entity FrameWork.csproj|c:\\exercise\\baitapvs\\ls_lehoanglong_asp\\aspnet_lhl\\lhl_lesson06_entity framework\\lhl_lesson06_entity framework\\controllers\\lhlcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BA65EAF-5BDB-4E24-8F52-5F717B7E7392}|LHL_Lesson06_Entity FrameWork\\LHL_Lesson06_Entity FrameWork.csproj|solutionrelative:lhl_lesson06_entity framework\\controllers\\lhlcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA65EAF-5BDB-4E24-8F52-5F717B7E7392}|LHL_Lesson06_Entity FrameWork\\LHL_Lesson06_Entity FrameWork.csproj|c:\\exercise\\baitapvs\\ls_lehoanglong_asp\\aspnet_lhl\\lhl_lesson06_entity framework\\lhl_lesson06_entity framework\\views\\lhlcategories\\lhlcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BA65EAF-5BDB-4E24-8F52-5F717B7E7392}|LHL_Lesson06_Entity FrameWork\\LHL_Lesson06_Entity FrameWork.csproj|solutionrelative:lhl_lesson06_entity framework\\views\\lhlcategories\\lhlcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA65EAF-5BDB-4E24-8F52-5F717B7E7392}|LHL_Lesson06_Entity FrameWork\\LHL_Lesson06_Entity FrameWork.csproj|c:\\exercise\\baitapvs\\ls_lehoanglong_asp\\aspnet_lhl\\lhl_lesson06_entity framework\\lhl_lesson06_entity framework\\views\\lhlcategories\\lhlindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BA65EAF-5BDB-4E24-8F52-5F717B7E7392}|LHL_Lesson06_Entity FrameWork\\LHL_Lesson06_Entity FrameWork.csproj|solutionrelative:lhl_lesson06_entity framework\\views\\lhlcategories\\lhlindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA65EAF-5BDB-4E24-8F52-5F717B7E7392}|LHL_Lesson06_Entity FrameWork\\LHL_Lesson06_Entity FrameWork.csproj|c:\\exercise\\baitapvs\\ls_lehoanglong_asp\\aspnet_lhl\\lhl_lesson06_entity framework\\lhl_lesson06_entity framework\\models\\lhlbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BA65EAF-5BDB-4E24-8F52-5F717B7E7392}|LHL_Lesson06_Entity FrameWork\\LHL_Lesson06_Entity FrameWork.csproj|solutionrelative:lhl_lesson06_entity framework\\models\\lhlbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA65EAF-5BDB-4E24-8F52-5F717B7E7392}|LHL_Lesson06_Entity FrameWork\\LHL_Lesson06_Entity FrameWork.csproj|c:\\exercise\\baitapvs\\ls_lehoanglong_asp\\aspnet_lhl\\lhl_lesson06_entity framework\\lhl_lesson06_entity framework\\models\\lhlcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BA65EAF-5BDB-4E24-8F52-5F717B7E7392}|LHL_Lesson06_Entity FrameWork\\LHL_Lesson06_Entity FrameWork.csproj|solutionrelative:lhl_lesson06_entity framework\\models\\lhlcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LHLBooksController.cs",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lesson06_Entity FrameWork\\LHL_Lesson06_Entity FrameWork\\Controllers\\LHLBooksController.cs",
+              "RelativeDocumentMoniker": "LHL_Lesson06_Entity FrameWork\\Controllers\\LHLBooksController.cs",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lesson06_Entity FrameWork\\LHL_Lesson06_Entity FrameWork\\Controllers\\LHLBooksController.cs",
+              "RelativeToolTip": "LHL_Lesson06_Entity FrameWork\\Controllers\\LHLBooksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T04:34:39.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lesson06_Entity FrameWork\\LHL_Lesson06_Entity FrameWork\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LHL_Lesson06_Entity FrameWork\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lesson06_Entity FrameWork\\LHL_Lesson06_Entity FrameWork\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LHL_Lesson06_Entity FrameWork\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T04:17:29.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LhlIndex.cshtml",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lesson06_Entity FrameWork\\LHL_Lesson06_Entity FrameWork\\Views\\LHLCategories\\LhlIndex.cshtml",
+              "RelativeDocumentMoniker": "LHL_Lesson06_Entity FrameWork\\Views\\LHLCategories\\LhlIndex.cshtml",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lesson06_Entity FrameWork\\LHL_Lesson06_Entity FrameWork\\Views\\LHLCategories\\LhlIndex.cshtml",
+              "RelativeToolTip": "LHL_Lesson06_Entity FrameWork\\Views\\LHLCategories\\LhlIndex.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T04:14:31.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LHLCategoriesController.cs",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lesson06_Entity FrameWork\\LHL_Lesson06_Entity FrameWork\\Controllers\\LHLCategoriesController.cs",
+              "RelativeDocumentMoniker": "LHL_Lesson06_Entity FrameWork\\Controllers\\LHLCategoriesController.cs",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lesson06_Entity FrameWork\\LHL_Lesson06_Entity FrameWork\\Controllers\\LHLCategoriesController.cs",
+              "RelativeToolTip": "LHL_Lesson06_Entity FrameWork\\Controllers\\LHLCategoriesController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwCYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:54:15.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lesson06_Entity FrameWork\\LHL_Lesson06_Entity FrameWork\\Web.config",
+              "RelativeDocumentMoniker": "LHL_Lesson06_Entity FrameWork\\Web.config",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lesson06_Entity FrameWork\\LHL_Lesson06_Entity FrameWork\\Web.config",
+              "RelativeToolTip": "LHL_Lesson06_Entity FrameWork\\Web.config",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-05T03:48:09.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LhlBookStore.cs",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lesson06_Entity FrameWork\\LHL_Lesson06_Entity FrameWork\\Models\\LhlBookStore.cs",
+              "RelativeDocumentMoniker": "LHL_Lesson06_Entity FrameWork\\Models\\LhlBookStore.cs",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lesson06_Entity FrameWork\\LHL_Lesson06_Entity FrameWork\\Models\\LhlBookStore.cs",
+              "RelativeToolTip": "LHL_Lesson06_Entity FrameWork\\Models\\LhlBookStore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:41:37.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LhlCreate.cshtml",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lesson06_Entity FrameWork\\LHL_Lesson06_Entity FrameWork\\Views\\LHLCategories\\LhlCreate.cshtml",
+              "RelativeDocumentMoniker": "LHL_Lesson06_Entity FrameWork\\Views\\LHLCategories\\LhlCreate.cshtml",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lesson06_Entity FrameWork\\LHL_Lesson06_Entity FrameWork\\Views\\LHLCategories\\LhlCreate.cshtml",
+              "RelativeToolTip": "LHL_Lesson06_Entity FrameWork\\Views\\LHLCategories\\LhlCreate.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T04:26:26.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LHLBook.cs",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lesson06_Entity FrameWork\\LHL_Lesson06_Entity FrameWork\\Models\\LHLBook.cs",
+              "RelativeDocumentMoniker": "LHL_Lesson06_Entity FrameWork\\Models\\LHLBook.cs",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lesson06_Entity FrameWork\\LHL_Lesson06_Entity FrameWork\\Models\\LHLBook.cs",
+              "RelativeToolTip": "LHL_Lesson06_Entity FrameWork\\Models\\LHLBook.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:37:10.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LHLCategory.cs",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lesson06_Entity FrameWork\\LHL_Lesson06_Entity FrameWork\\Models\\LHLCategory.cs",
+              "RelativeDocumentMoniker": "LHL_Lesson06_Entity FrameWork\\Models\\LHLCategory.cs",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\LS_Lehoanglong_ASP\\ASPNET_LHL\\LHL_Lesson06_Entity FrameWork\\LHL_Lesson06_Entity FrameWork\\Models\\LHLCategory.cs",
+              "RelativeToolTip": "LHL_Lesson06_Entity FrameWork\\Models\\LHLCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:36:08.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
